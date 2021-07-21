@@ -4,11 +4,12 @@
 * **Important links for the course:** [iOS Course Resources | The App Brewery](https://www.appbrewery.co/p/ios-course-resources)
 
 ## Section 2: Xcode Storyboards and Interface Builder
-I Am Rich App 💎
+<span style=“display:block;text-align:center”>![](README/I_Am_Rich.gif)</span>
+
 
 ### About the color palette:
+![](README/image.png)
 [Pastel Color Palettes - Color Hunt](https://colorhunt.co/palettes/pastel)
-![](README/9809293C-2658-4E5B-8617-E8BE3E26B245.png)
 * #FFD5CD
 * #EFBBCF
 * #C3AED6
